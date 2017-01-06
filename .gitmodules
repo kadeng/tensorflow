@@ -1,0 +1,3 @@
+[submodule "projects/android_vision"]
+	path = projects/android_vision
+	url = https://github.com/kadeng/android_vision.git
